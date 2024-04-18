@@ -10,8 +10,11 @@ Web Programming 2 Course Bank
   <br>
   <li>Laravel</li>
   <ul>
-    <li>-</li>
     <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Teach-Website-Todo-UTB">Website Todo</a></li>
+  </ul>
+  <li>Playlist Laravel</li>
+  <ul>
+    <li><a href="https://www.youtube.com/playlist?list=PLaC2GD6EmthXuU9ngCeUpaFEc1izKsPy8">Playlist</a></li>
   </ul>
 </ul>
 
