@@ -16,7 +16,7 @@ Web Programming 2 Course Bank
   <br>
    <li>Vue JS</li>
   <ul>
-    <li><a href="">Website Todo</a></li>
+    <li>-</li>
   </ul>
   <br>
   <li>Playlist Laravel</li>
@@ -26,7 +26,7 @@ Web Programming 2 Course Bank
   <br>
   <li>Playlist Vue JS</li>
   <ul>
-    <li><a href="">Playlist</a></li>
+    <li>-</li>
   </ul>
   <br>
 </ul>
