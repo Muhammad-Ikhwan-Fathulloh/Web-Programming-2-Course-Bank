@@ -34,5 +34,8 @@ Web Programming 2 Course Bank
 <p>Sumber:</p>
 <ul>
   <li><a href="https://php.net/">PHP</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
+  <li><a href="https://laragon.org/">Laragon</a></li>
   <li><a href="https://laravel.com/">Laravel</a></li>
+  <li><a href="https://vuejs.org/">Vue JS</a></li>
 </ul>
